@@ -138,7 +138,6 @@ Money-Heist-Data-Analysis/
 ├── screenshots/
 │   ├── rating_distribution.png
 │   ├── boxplot_analysis.png
-│   ├── histogram_analysis.png
 │   └── correlation_heatmap.png
 │
 ├── requirements.txt
