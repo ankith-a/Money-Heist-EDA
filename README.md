@@ -69,8 +69,6 @@ The dataset contains information related to the Money Heist series including rat
 
 ## 📁 Project Structure
 
-## 📁 Project Structure
-
 ```text
 Money-Heist-Data-Analysis/
 │
