@@ -69,27 +69,27 @@ The dataset contains information related to the Money Heist series including rat
 
 ## 📁 Project Structure
 
+## 📁 Project Structure
+
+```text
 Money-Heist-Data-Analysis/
 │
 ├── notebook/
-│   └── money_heist_analysis.ipynb          # Main Jupyter notebook
+│   └── money_heist_analysis.ipynb
 │
 ├── data/
-│   └── money_heist_data.csv               # Dataset used for analysis
+│   └── money_heist_data.csv
 │
 ├── screenshots/
-│   ├── dataset_overview.png               # Dataset information output
-│   ├── rating_distribution.png            # Rating distribution chart
-│   ├── boxplot_ratings.png                # Outlier detection using boxplot
-│   ├── correlation_heatmap.png            # Correlation analysis
-│   └── insights_visualization.png         # Key visual insights
+│   ├── rating_distribution.png
+│   ├── boxplot_analysis.png
+│   ├── histogram_analysis.png
+│   └── correlation_heatmap.png
 │
-├── reports/
-│   └── analysis_summary.pdf               # Project report (optional)
+├── requirements.txt
 │
-├── requirements.txt                       # Python dependencies
-│
-└── README.md                              # Project documentation
+└── README.md
+```
 
 ---
 
